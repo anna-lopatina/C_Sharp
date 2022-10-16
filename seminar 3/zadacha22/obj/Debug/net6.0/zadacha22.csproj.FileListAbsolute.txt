@@ -1,0 +1,15 @@
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.csproj.AssemblyReference.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.AssemblyInfoInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.AssemblyInfo.cs
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.csproj.CoreCompileInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/bin/Debug/net6.0/zadacha22
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/bin/Debug/net6.0/zadacha22.deps.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/bin/Debug/net6.0/zadacha22.runtimeconfig.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/bin/Debug/net6.0/zadacha22.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/bin/Debug/net6.0/zadacha22.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/refint/zadacha22.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/zadacha22.genruntimeconfig.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/zadacha22/obj/Debug/net6.0/ref/zadacha22.dll

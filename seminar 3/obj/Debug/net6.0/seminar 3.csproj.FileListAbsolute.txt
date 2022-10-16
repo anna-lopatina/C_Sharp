@@ -1,0 +1,15 @@
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/bin/Debug/net6.0/seminar 3
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/bin/Debug/net6.0/seminar 3.deps.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/bin/Debug/net6.0/seminar 3.runtimeconfig.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/bin/Debug/net6.0/seminar 3.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/bin/Debug/net6.0/seminar 3.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.csproj.AssemblyReference.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.AssemblyInfoInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.AssemblyInfo.cs
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.csproj.CoreCompileInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/refint/seminar 3.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/seminar 3.genruntimeconfig.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C#/seminar 3/obj/Debug/net6.0/ref/seminar 3.dll
