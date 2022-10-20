@@ -1,0 +1,5 @@
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 6/zadacha45/obj/Debug/net6.0/zadacha45.csproj.AssemblyReference.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 6/zadacha45/obj/Debug/net6.0/zadacha45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 6/zadacha45/obj/Debug/net6.0/zadacha45.AssemblyInfoInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 6/zadacha45/obj/Debug/net6.0/zadacha45.AssemblyInfo.cs
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 6/zadacha45/obj/Debug/net6.0/zadacha45.csproj.CoreCompileInputs.cache
