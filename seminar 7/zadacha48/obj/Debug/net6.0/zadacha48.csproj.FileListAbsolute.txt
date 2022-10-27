@@ -1,0 +1,15 @@
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/bin/Debug/net6.0/zadacha48
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/bin/Debug/net6.0/zadacha48.deps.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/bin/Debug/net6.0/zadacha48.runtimeconfig.json
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/bin/Debug/net6.0/zadacha48.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/bin/Debug/net6.0/zadacha48.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.csproj.AssemblyReference.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.AssemblyInfoInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.AssemblyInfo.cs
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.csproj.CoreCompileInputs.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/refint/zadacha48.dll
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.pdb
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/zadacha48.genruntimeconfig.cache
+/Users/konstantinlopatin/Desktop/GEEKBRAINS/C_sharp/seminar 7/zadacha48/obj/Debug/net6.0/ref/zadacha48.dll
