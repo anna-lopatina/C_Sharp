@@ -31,7 +31,6 @@ Console.Write("Введите количество строк в массиве:
 int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите количество столбцов в массиве: ");
 int columns = int.Parse(Console.ReadLine()!);
-
 double[,] array = new double[row, columns];
 GetArray(array);
 PrintArray(array);
